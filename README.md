@@ -1,6 +1,21 @@
 # hkthoncopilot
 code  c# asp.net core mvc using github copilot for assistance
 Tech stack used c# asp.net core mvc Problem stmt Task mgmt Application using dotnet framework using this usercan update create delete task and mark them as completed. Created using dotnet mvc
+----------------------------------------------------------
+ Action performed:
+ Create task
+ update task/Edit task
+ Delete Task
+ Mark as completed  with yes or no option for task like task completed yes or no
+ -----------------------------------------------------------
+ Run the soln or App
+ 1 Download from github url  project
+ 2-open the file with respective dir
+ 3-dotnet build
+ 4-dotnet run
+ after this you get url for listening copy the url and paste in browser
+ and see the Task url  click on that get the task list where all CRUD Opeartion you can performed.
+ --------------------------------------------------------------------
 
 How github copilot help me
 
